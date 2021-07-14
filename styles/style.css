@@ -7,7 +7,6 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  color: #6c6c6c;
   font-weight: normal;
   font-size: 16px;
   line-height: 26px;
@@ -95,7 +94,7 @@ img {
   margin-bottom: 5px;
 }
 
-/* subscribe section  */
+/* -----------------Our subscribe--------------- */
 
 .sub-heading h2 {
   font-size: 45px;
